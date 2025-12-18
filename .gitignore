@@ -1,0 +1,11 @@
+# Ignorar archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Ignorar entornos virtuales de Python
+venv/
+.env
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
